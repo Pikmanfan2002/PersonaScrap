@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -194780425, guid: 8f2590e307612f0429a2d78296d81e25, type: 3}
+  m_Name: PersonaScrap
+  m_EditorClassIdentifier: 
+  <ModName>k__BackingField: PersonaScrap
+  <AuthorName>k__BackingField: Pearsonafan2002
+  <ModMergeSetting>k__BackingField: 1
+  <ExtendedLevels>k__BackingField: []
+  <ExtendedDungeonFlows>k__BackingField: []
+  <ExtendedItems>k__BackingField:
+  - {fileID: 11400000, guid: f8aa561f6e198bb45aac40bce032fd20, type: 2}
+  - {fileID: 11400000, guid: c437d428b59bed447bc6b3b172409599, type: 2}
+  - {fileID: 11400000, guid: 93555316b7cfbad4eadfd755b7af74e6, type: 2}
+  - {fileID: 11400000, guid: 0d44293d12b9f114cb47ce3e68e32305, type: 2}
+  - {fileID: 11400000, guid: 1df4684d58aee3f4098dd3321faa6c45, type: 2}
+  - {fileID: 11400000, guid: 9389e7be6139ba14983d6f76f15f164f, type: 2}
+  - {fileID: 11400000, guid: 97501aaa2c532c64297f4596dd88abc8, type: 2}
+  - {fileID: 11400000, guid: cdde1cb808184514ebb94b36bd5c883e, type: 2}
+  - {fileID: 11400000, guid: 1293bcd95d4d13044b58faaeff708b53, type: 2}
+  - {fileID: 11400000, guid: f140879a81ff84e438d70495e0d96ea2, type: 2}
+  <ExtendedEnemyTypes>k__BackingField: []
+  <ExtendedWeatherEffects>k__BackingField: []
+  <ExtendedFootstepSurfaces>k__BackingField: []
+  <ExtendedStoryLogs>k__BackingField: []
+  <ExtendedBuyableVehicles>k__BackingField: []
